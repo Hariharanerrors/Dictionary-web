@@ -12,9 +12,12 @@
     padding: 10px;
     border: 2px solid green;
 }
-.dic-search button{
+.dic-search button {
     padding: 9px;
     width: 68px;
+    border: 2px solid black;
+    background: red;
+    color: white;
 }
 .showresults {
     font-size: 24px;
